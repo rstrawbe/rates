@@ -1,0 +1,15 @@
+{
+  "name": "rstrawbe/latest-json",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "rstrawbe",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+    "guzzlehttp/guzzle": "^7.9.2"
+  }
+}
