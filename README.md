@@ -1,5 +1,8 @@
 # Exchange Rates Client
 
+### Install
+
+`$ composer require rstrawbe/rates`
 
 ### Examples
 
